@@ -88,7 +88,6 @@ tabela_limpa.csv
 
 Dessa forma, a base original `dirty_cafe_sales.csv` é preservada e o resultado do processo de limpeza fica disponível em um novo arquivo.
 
----
 ## Autor
 
 **Thales Trajano**

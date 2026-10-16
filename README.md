@@ -88,10 +88,9 @@ tabela_limpa.csv
 
 Dessa forma, a base original `dirty_cafe_sales.csv` é preservada e o resultado do processo de limpeza fica disponível em um novo arquivo.
 
-## Resultado
-
-O projeto demonstra um fluxo básico de **limpeza e análise de dados**, desde a importação de uma base com problemas até a geração de uma versão organizada e pronta para utilização em análises posteriores.
-
 ---
+## Autor
 
-**Projeto desenvolvido para fins de estudo e prática em análise e tratamento de dados com Python.**
+**Thales Trajano**
+
+GitHub: [@Thales1904](https://github.com/Thales1904)
